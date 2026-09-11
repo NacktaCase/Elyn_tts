@@ -2,15 +2,15 @@
   "images": [
     {
       "file": "weights_0.png",
-      "width": 4531,
+      "width": 4532,
       "height": 4531,
-      "byteLength": 61587592
+      "byteLength": 61595848
     },
     {
       "file": "weights_1.png",
-      "width": 4531,
+      "width": 4532,
       "height": 4531,
-      "byteLength": 61587592
+      "byteLength": 61595848
     }
   ]
 }
