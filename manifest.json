@@ -1,0 +1,16 @@
+{
+  "images": [
+    {
+      "file": "weights_0.png",
+      "width": 3924,
+      "height": 3924,
+      "byteLength": 61587592
+    },
+    {
+      "file": "weights_1.png",
+      "width": 3924,
+      "height": 3924,
+      "byteLength": 61587592
+    }
+  ]
+}
