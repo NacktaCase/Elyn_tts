@@ -2,15 +2,47 @@
   "images": [
     {
       "file": "weights_0.png",
-      "width": 4532,
-      "height": 4531,
-      "byteLength": 61602448
+      "width": 4243,
+      "height": 4243,
+      "byteLength": 54008155
     },
     {
       "file": "weights_1.png",
-      "width": 4532,
-      "height": 4531,
-      "byteLength": 61602448
+      "width": 4243,
+      "height": 4243,
+      "byteLength": 54008155
+    },
+    {
+      "file": "weights_2.png",
+      "width": 4243,
+      "height": 4243,
+      "byteLength": 54008155
+    },
+    {
+      "file": "weights_3.png",
+      "width": 4243,
+      "height": 4243,
+      "byteLength": 54008155
+    },
+    {
+      "file": "weights_4.png",
+      "width": 4243,
+      "height": 4243,
+      "byteLength": 54008154
     }
+  ],
+  "part_names": [
+    "pitch_wasm",
+    "hubert_wasm",
+    "generator_wasm",
+    "hubert_compact",
+    "generator_compact",
+    "g2p_wasm",
+    "wordpiece_wasm",
+    "bert_wasm",
+    "melo_gen_wasm",
+    "bert_vocab",
+    "bert_compact",
+    "melo_gen_compact"
   ]
 }
